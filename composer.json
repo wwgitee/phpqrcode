@@ -1,35 +1,14 @@
 {
-
-  "name": "phpqrcode",
-
-  "description": "composer demo",
-
-  "type": "project",
-
-  "autoload": {
-
-    "psr-4": {
-
-      "Huron241\\ComposerDemo\\": "src/"
-
-    }
-
+  "name": "w_gitee/phpqrcode",
+  "description": "phpqrcode",
+  "require": {
+    "php": "^5.6+"
   },
-
   "authors": [
-
     {
-
       "name": "何以解忧",
-
       "email": "w_gitee@163.com"
-
     }
-
   ],
-
-  "minimum-stability": "dev",
-
-  "require": {}
-
+  "license": "MIT"
 }
