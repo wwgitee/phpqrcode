@@ -1,0 +1,35 @@
+{
+
+  "name": "w_gitee/phpqrcode",
+
+  "description": "composer demo",
+
+  "type": "project",
+
+  "autoload": {
+
+    "psr-4": {
+
+      "Huron241\\ComposerDemo\\": "src/"
+
+    }
+
+  },
+
+  "authors": [
+
+    {
+
+      "name": "何以解忧",
+
+      "email": "w_gitee@163.com"
+
+    }
+
+  ],
+
+  "minimum-stability": "dev",
+
+  "require": {}
+
+}
