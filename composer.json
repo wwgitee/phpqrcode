@@ -8,10 +8,5 @@
       "name": "何以解忧",
       "email": "w_gitee@163.com"
     }
-  ],
-  "extra": {
-    "installer-paths": {
-      "sites/example.com/modules/think/paginator": ["vendor/package"]
-    }
-  }
+  ]
 }
